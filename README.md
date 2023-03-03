@@ -178,6 +178,7 @@ print(gcd(a ,b))
 #### 사용 예시
 <img width="100%" src="https://user-images.githubusercontent.com/100189169/209672916-c65b7c5b-d7fe-4cd4-895a-a2c374b2e39e.png"/>
 
++ 사진을 여러개 연달아서 넣으면, 첫 번째 사진만 나오고 나머지는 링크가 뜬다. 이 문제는 사진 사이에 줄바꿈을 넣어주면 해결된다.
 ## 11. 구분선
 #### 사용 방법
 ```
